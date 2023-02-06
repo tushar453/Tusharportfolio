@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Tusharportfolio/static/css/main.73c128c2.css",
+    "main.js": "/Tusharportfolio/static/js/main.5947c946.js",
+    "static/js/787.4e36ec2d.chunk.js": "/Tusharportfolio/static/js/787.4e36ec2d.chunk.js",
+    "static/media/images.jpg": "/Tusharportfolio/static/media/images.28eae0bd6e074157f2ba.jpg",
+    "static/media/nit.jpeg": "/Tusharportfolio/static/media/nit.660d0179edf4b5ab33cd.jpeg",
+    "index.html": "/Tusharportfolio/index.html",
+    "main.73c128c2.css.map": "/Tusharportfolio/static/css/main.73c128c2.css.map",
+    "main.5947c946.js.map": "/Tusharportfolio/static/js/main.5947c946.js.map",
+    "787.4e36ec2d.chunk.js.map": "/Tusharportfolio/static/js/787.4e36ec2d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73c128c2.css",
+    "static/js/main.5947c946.js"
+  ]
+}
